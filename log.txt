@@ -2,3 +2,4 @@
 0618. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
 0511. 🐛 fix: fix broken CSS in mobile view
+0822. 🔧 refactor: remove redundant code blocks
