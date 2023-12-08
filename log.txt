@@ -1,3 +1,4 @@
 0227. ✅ test: test user registration edge cases
 0686. 🎨 style: standardize quote style
 0567. 📚 docs: add API usage examples
+0434. 📚 docs: document token refresh logic
