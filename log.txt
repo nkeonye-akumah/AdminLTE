@@ -4,3 +4,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0822. 🔧 refactor: remove redundant code blocks
 0993. ✨ feat: implement quiz timer feature
+0116. ✨ feat: support email verification
