@@ -7,3 +7,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0897. 🐛 fix: prevent crash on empty input
 0458. ✨ feat: create admin dashboard
+0286. ✅ test: mock database connection in test suite
