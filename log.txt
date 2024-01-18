@@ -15,3 +15,4 @@
 0118. 🚀 perf: reduce image load time
 0595. ✨ feat: enable dark mode toggle
 0121. ✨ feat: support email verification
+0674. 🔧 refactor: split large controller into smaller functions
