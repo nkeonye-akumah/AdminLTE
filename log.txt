@@ -14,3 +14,4 @@
 0491. 🚀 perf: lazy-load components
 0118. 🚀 perf: reduce image load time
 0595. ✨ feat: enable dark mode toggle
+0121. ✨ feat: support email verification
