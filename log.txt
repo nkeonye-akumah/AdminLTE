@@ -16,3 +16,4 @@
 0595. ✨ feat: enable dark mode toggle
 0121. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
+0220. 🐛 fix: fix null pointer exception on login
