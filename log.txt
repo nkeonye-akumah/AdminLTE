@@ -21,3 +21,4 @@
 0604. 📚 docs: add API usage examples
 0619. ✨ feat: create admin dashboard
 0654. ✨ feat: create admin dashboard
+0748. 🚀 perf: optimize database query for quiz results
