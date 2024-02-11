@@ -23,3 +23,4 @@
 0654. ✨ feat: create admin dashboard
 0748. 🚀 perf: optimize database query for quiz results
 0100. ♻️ chore: update .gitignore
+0131. 📚 docs: write FAQ section
