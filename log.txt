@@ -24,3 +24,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0100. ♻️ chore: update .gitignore
 0131. 📚 docs: write FAQ section
+0479. 🐛 fix: fix null pointer exception on login
