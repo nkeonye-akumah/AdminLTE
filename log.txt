@@ -26,3 +26,4 @@
 0131. 📚 docs: write FAQ section
 0479. 🐛 fix: fix null pointer exception on login
 0777. 📚 docs: document token refresh logic
+0615. 🐛 fix: correct typo in registration form
