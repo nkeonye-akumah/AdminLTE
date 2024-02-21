@@ -18,3 +18,4 @@
 0869. ♻️ chore: bump dependencies
 0979. 🎨 style: standardize quote style
 0062. ♻️ chore: update .gitignore
+0641. 📚 docs: write FAQ section
