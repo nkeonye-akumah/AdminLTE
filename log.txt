@@ -20,3 +20,4 @@
 0062. ♻️ chore: update .gitignore
 0641. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
+0054. ♻️ chore: update .gitignore
