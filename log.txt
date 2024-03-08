@@ -37,3 +37,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0845. 🚀 perf: cache repeated calculations
 0950. 🎨 style: reformat files with black
+0297. 🎨 style: remove trailing whitespace
