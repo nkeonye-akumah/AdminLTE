@@ -39,3 +39,4 @@
 0950. 🎨 style: reformat files with black
 0297. 🎨 style: remove trailing whitespace
 0363. 📚 docs: clarify environment setup
+0370. 🚀 perf: reduce image load time
