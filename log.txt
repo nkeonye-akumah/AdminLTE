@@ -42,3 +42,4 @@
 0370. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
 0633. ✨ feat: add user authentication
+0612. ✅ test: test user registration edge cases
