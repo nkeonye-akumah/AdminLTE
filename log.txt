@@ -26,3 +26,4 @@
 0234. ♻️ chore: rename env.example
 0304. 🔧 refactor: remove redundant code blocks
 0508. ✅ test: add unit test for quiz service
+0248. 🐛 fix: handle 500 error in quiz API
