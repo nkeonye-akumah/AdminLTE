@@ -45,3 +45,4 @@
 0612. ✅ test: test user registration edge cases
 0744. 🔧 refactor: remove redundant code blocks
 0931. 🚀 perf: reduce image load time
+0388. 🎨 style: reformat files with black
