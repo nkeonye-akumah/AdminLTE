@@ -46,3 +46,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0931. 🚀 perf: reduce image load time
 0388. 🎨 style: reformat files with black
+0793. 📚 docs: clarify environment setup
