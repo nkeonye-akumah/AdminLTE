@@ -28,3 +28,4 @@
 0508. ✅ test: add unit test for quiz service
 0248. 🐛 fix: handle 500 error in quiz API
 0112. ✨ feat: enable dark mode toggle
+0921. 🐛 fix: correct typo in registration form
