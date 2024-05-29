@@ -39,3 +39,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0300. ✨ feat: add export to CSV option
 0044. ✅ test: add unit test for quiz service
+0433. 🐛 fix: prevent crash on empty input
