@@ -62,3 +62,4 @@
 0960. ✅ test: increase coverage on auth module
 0805. ♻️ chore: add GitHub actions badge
 0611. ✅ test: test user registration edge cases
+0326. 🚀 perf: cache repeated calculations
