@@ -42,3 +42,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0010. ✨ feat: add user authentication
 0802. 🔧 refactor: remove redundant code blocks
+0751. 🐛 fix: handle 500 error in quiz API
