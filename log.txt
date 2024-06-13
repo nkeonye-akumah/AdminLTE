@@ -43,3 +43,4 @@
 0010. ✨ feat: add user authentication
 0802. 🔧 refactor: remove redundant code blocks
 0751. 🐛 fix: handle 500 error in quiz API
+0610. 🚀 perf: lazy-load components
