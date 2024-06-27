@@ -46,3 +46,4 @@
 0610. 🚀 perf: lazy-load components
 0605. ✨ feat: support email verification
 0512. 🚀 perf: reduce image load time
+0084. 🐛 fix: handle 500 error in quiz API
