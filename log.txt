@@ -70,3 +70,4 @@
 0445. 📚 docs: improve code comments in utils
 0876. ♻️ chore: rename env.example
 0191. 🔧 refactor: refactor quiz grading logic
+0495. 🔧 refactor: remove redundant code blocks
