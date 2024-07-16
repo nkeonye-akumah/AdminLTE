@@ -48,3 +48,4 @@
 0512. 🚀 perf: reduce image load time
 0084. 🐛 fix: handle 500 error in quiz API
 0406. ✨ feat: add export to CSV option
+0633. ✨ feat: add user authentication
