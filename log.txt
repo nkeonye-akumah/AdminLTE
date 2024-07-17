@@ -49,3 +49,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0406. ✨ feat: add export to CSV option
 0633. ✨ feat: add user authentication
+0621. 🔧 refactor: clean up auth middleware
