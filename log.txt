@@ -51,3 +51,4 @@
 0633. ✨ feat: add user authentication
 0621. 🔧 refactor: clean up auth middleware
 0656. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
