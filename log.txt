@@ -74,3 +74,4 @@
 0486. ✨ feat: add export to CSV option
 0682. ♻️ chore: rename env.example
 0202. 🔧 refactor: refactor quiz grading logic
+0159. 🚀 perf: lazy-load components
