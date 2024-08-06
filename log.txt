@@ -55,3 +55,4 @@
 0361. ✨ feat: support email verification
 0528. ♻️ chore: clean up unused files
 0902. ✨ feat: enable dark mode toggle
+0250. 📚 docs: update README with setup steps
