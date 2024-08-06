@@ -54,3 +54,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0361. ✨ feat: support email verification
 0528. ♻️ chore: clean up unused files
+0902. ✨ feat: enable dark mode toggle
