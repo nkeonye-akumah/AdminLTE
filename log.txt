@@ -61,3 +61,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0775. 🐛 fix: fix null pointer exception on login
 0393. 🚀 perf: lazy-load components
+0282. 🔧 refactor: remove redundant code blocks
