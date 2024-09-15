@@ -72,3 +72,4 @@
 0398. 🚀 perf: cache repeated calculations
 0091. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
+0539. 🔧 refactor: organize models into subfolders
