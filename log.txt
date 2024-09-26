@@ -89,3 +89,4 @@
 0055. 📚 docs: update README with setup steps
 0757. 🔧 refactor: remove redundant code blocks
 0429. ✨ feat: add user authentication
+0614. 🚀 perf: reduce image load time
