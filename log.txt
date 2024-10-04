@@ -92,3 +92,4 @@
 0614. 🚀 perf: reduce image load time
 0303. 🎨 style: rename variables for clarity
 0517. ✅ test: mock database connection in test suite
+0756. ✨ feat: support email verification
