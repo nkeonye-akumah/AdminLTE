@@ -95,3 +95,4 @@
 0756. ✨ feat: support email verification
 0447. ♻️ chore: bump dependencies
 0761. ✅ test: add unit test for quiz service
+0696. 🔧 refactor: clean up auth middleware
