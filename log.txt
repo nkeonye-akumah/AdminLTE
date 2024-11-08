@@ -92,3 +92,4 @@
 0384. 📚 docs: clarify environment setup
 0910. 🎨 style: remove trailing whitespace
 0201. 🔧 refactor: clean up auth middleware
+0545. 🎨 style: standardize quote style
