@@ -93,3 +93,4 @@
 0910. 🎨 style: remove trailing whitespace
 0201. 🔧 refactor: clean up auth middleware
 0545. 🎨 style: standardize quote style
+0094. 📚 docs: document token refresh logic
