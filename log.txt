@@ -99,3 +99,4 @@
 0028. 🎨 style: standardize quote style
 0644. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
+0074. ♻️ chore: add GitHub actions badge
