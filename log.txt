@@ -107,3 +107,4 @@
 0575. ✅ test: add unit test for quiz service
 0920. 🔧 refactor: organize models into subfolders
 0593. 🐛 fix: correct typo in registration form
+0711. 🐛 fix: fix broken CSS in mobile view
