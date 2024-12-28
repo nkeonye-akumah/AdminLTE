@@ -111,3 +111,4 @@
 0750. 🎨 style: apply consistent indentation
 0195. 📚 docs: clarify environment setup
 0712. 🎨 style: apply consistent indentation
+0259. 🚀 perf: lazy-load components
