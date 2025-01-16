@@ -107,3 +107,4 @@
 0122. ✨ feat: support email verification
 0941. 🚀 perf: cache repeated calculations
 0068. 🐛 fix: fix null pointer exception on login
+0523. ♻️ chore: bump dependencies
