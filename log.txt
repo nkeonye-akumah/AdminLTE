@@ -110,3 +110,4 @@
 0523. ♻️ chore: bump dependencies
 0845. 🚀 perf: cache repeated calculations
 0918. ✨ feat: enable dark mode toggle
+0021. ✨ feat: support email verification
