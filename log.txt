@@ -111,3 +111,4 @@
 0845. 🚀 perf: cache repeated calculations
 0918. ✨ feat: enable dark mode toggle
 0021. ✨ feat: support email verification
+0275. 🎨 style: standardize quote style
