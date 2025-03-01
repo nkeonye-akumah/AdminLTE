@@ -120,3 +120,4 @@
 0086. 🐛 fix: correct typo in registration form
 0582. ✨ feat: add export to CSV option
 0505. ♻️ chore: add GitHub actions badge
+0650. ✅ test: add unit test for quiz service
