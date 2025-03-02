@@ -121,3 +121,4 @@
 0582. ✨ feat: add export to CSV option
 0505. ♻️ chore: add GitHub actions badge
 0650. ✅ test: add unit test for quiz service
+0587. 🔧 refactor: remove redundant code blocks
