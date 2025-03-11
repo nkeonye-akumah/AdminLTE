@@ -125,3 +125,4 @@
 0336. ✨ feat: add export to CSV option
 0665. ♻️ chore: update .gitignore
 0144. ✅ test: increase coverage on auth module
+0111. 📚 docs: update README with setup steps
