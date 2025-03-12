@@ -126,3 +126,4 @@
 0665. ♻️ chore: update .gitignore
 0144. ✅ test: increase coverage on auth module
 0111. 📚 docs: update README with setup steps
+0815. 🔧 refactor: split large controller into smaller functions
