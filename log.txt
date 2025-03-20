@@ -129,3 +129,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0657. 🎨 style: standardize quote style
 0295. 🎨 style: remove trailing whitespace
+0864. 🐛 fix: correct typo in registration form
