@@ -130,3 +130,4 @@
 0657. 🎨 style: standardize quote style
 0295. 🎨 style: remove trailing whitespace
 0864. 🐛 fix: correct typo in registration form
+0571. 🔧 refactor: clean up auth middleware
