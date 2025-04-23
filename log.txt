@@ -129,3 +129,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0020. ✅ test: add integration test for /submit endpoint
 0189. 📚 docs: clarify environment setup
+0110. 🐛 fix: prevent crash on empty input
