@@ -140,3 +140,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0035. ✅ test: increase coverage on auth module
 0092. 🚀 perf: reduce image load time
+0019. ✨ feat: enable dark mode toggle
