@@ -132,3 +132,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0620. ✨ feat: implement quiz timer feature
 0503. ♻️ chore: rename env.example
+0258. 🐛 fix: prevent crash on empty input
