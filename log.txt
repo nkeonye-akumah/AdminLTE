@@ -145,3 +145,4 @@
 0806. 📚 docs: improve code comments in utils
 0813. 🔧 refactor: organize models into subfolders
 0925. ✨ feat: add export to CSV option
+0914. ✅ test: test user registration edge cases
