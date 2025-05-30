@@ -148,3 +148,4 @@
 0914. ✅ test: test user registration edge cases
 0107. 🐛 fix: prevent crash on empty input
 0049. 🐛 fix: handle 500 error in quiz API
+0780. 📚 docs: add API usage examples
