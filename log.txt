@@ -143,3 +143,4 @@
 0093. ✅ test: add unit test for quiz service
 0333. 🚀 perf: cache repeated calculations
 0357. ✅ test: add unit test for quiz service
+0257. 📚 docs: clarify environment setup
