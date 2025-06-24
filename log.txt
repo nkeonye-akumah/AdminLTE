@@ -153,3 +153,4 @@
 0104. 🎨 style: apply consistent indentation
 0848. 📚 docs: update README with setup steps
 0410. 🎨 style: reformat files with black
+0469. 🚀 perf: lazy-load components
