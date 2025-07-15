@@ -159,3 +159,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0671. 🐛 fix: fix null pointer exception on login
 0450. 🐛 fix: fix broken CSS in mobile view
+0132. ✅ test: add unit test for quiz service
