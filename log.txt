@@ -155,3 +155,4 @@
 0190. 🎨 style: rename variables for clarity
 0997. ✅ test: increase coverage on auth module
 0836. 🚀 perf: optimize database query for quiz results
+0861. ♻️ chore: clean up unused files
