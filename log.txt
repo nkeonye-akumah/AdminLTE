@@ -167,3 +167,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0693. 📚 docs: add API usage examples
 0244. ✨ feat: add export to CSV option
+0679. ♻️ chore: bump dependencies
