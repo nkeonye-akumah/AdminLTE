@@ -159,3 +159,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0389. 📚 docs: improve code comments in utils
 0568. 🐛 fix: handle 500 error in quiz API
+0188. 🎨 style: apply consistent indentation
