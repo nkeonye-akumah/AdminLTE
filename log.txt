@@ -171,3 +171,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0209. ✨ feat: implement quiz timer feature
 0525. ✅ test: mock database connection in test suite
+0487. 🎨 style: reformat files with black
