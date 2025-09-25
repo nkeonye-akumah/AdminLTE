@@ -174,3 +174,4 @@
 0487. 🎨 style: reformat files with black
 0971. 🎨 style: standardize quote style
 0020. ✅ test: add integration test for /submit endpoint
+0908. ♻️ chore: bump dependencies
