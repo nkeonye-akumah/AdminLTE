@@ -173,3 +173,4 @@
 0875. ✅ test: increase coverage on auth module
 0377. ✨ feat: add user authentication
 0624. ✅ test: add unit test for quiz service
+0097. 🐛 fix: handle 500 error in quiz API
