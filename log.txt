@@ -177,3 +177,4 @@
 0908. ♻️ chore: bump dependencies
 0606. 📚 docs: improve code comments in utils
 0521. 🎨 style: standardize quote style
+0276. ✅ test: add integration test for /submit endpoint
