@@ -180,3 +180,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0331. 🐛 fix: fix broken CSS in mobile view
 0133. 🐛 fix: fix null pointer exception on login
+0298. ♻️ chore: update .gitignore
