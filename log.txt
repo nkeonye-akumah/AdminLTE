@@ -182,3 +182,4 @@
 0048. 📚 docs: update README with setup steps
 0400. 🐛 fix: fix null pointer exception on login
 0159. 🚀 perf: lazy-load components
+0252. 🎨 style: remove trailing whitespace
