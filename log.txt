@@ -184,3 +184,4 @@
 0159. 🚀 perf: lazy-load components
 0252. 🎨 style: remove trailing whitespace
 0617. ✨ feat: support email verification
+0908. ♻️ chore: bump dependencies
