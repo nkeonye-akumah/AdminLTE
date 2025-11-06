@@ -182,3 +182,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0298. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0954. 🚀 perf: cache repeated calculations
