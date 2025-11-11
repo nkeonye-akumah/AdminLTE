@@ -183,3 +183,4 @@
 0298. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
 0954. 🚀 perf: cache repeated calculations
+0592. 📚 docs: add API usage examples
