@@ -189,3 +189,4 @@
 0184. 📚 docs: improve code comments in utils
 0450. 🐛 fix: fix broken CSS in mobile view
 0648. ♻️ chore: bump dependencies
+0971. 🎨 style: standardize quote style
