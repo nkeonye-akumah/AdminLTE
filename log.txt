@@ -190,3 +190,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0648. ♻️ chore: bump dependencies
 0971. 🎨 style: standardize quote style
+0750. 🎨 style: apply consistent indentation
