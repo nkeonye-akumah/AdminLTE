@@ -196,3 +196,4 @@
 0707. 🎨 style: apply consistent indentation
 0269. ✅ test: test user registration edge cases
 0667. ✨ feat: add export to CSV option
+0279. ✨ feat: support email verification
