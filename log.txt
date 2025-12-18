@@ -196,3 +196,4 @@
 0834. ✅ test: increase coverage on auth module
 0896. 🚀 perf: reduce image load time
 0958. 🐛 fix: prevent crash on empty input
+0026. 🔧 refactor: clean up auth middleware
