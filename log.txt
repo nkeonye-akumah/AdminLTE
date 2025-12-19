@@ -1,0 +1,200 @@
+0227. ✅ test: test user registration edge cases
+0686. 🎨 style: standardize quote style
+0567. 📚 docs: add API usage examples
+0434. 📚 docs: document token refresh logic
+0161. ✨ feat: create admin dashboard
+0494. 🎨 style: rename variables for clarity
+0421. 🔧 refactor: split large controller into smaller functions
+0897. 🐛 fix: prevent crash on empty input
+0458. ✨ feat: create admin dashboard
+0286. ✅ test: mock database connection in test suite
+0277. 🎨 style: standardize quote style
+0303. 🎨 style: rename variables for clarity
+0742. 📚 docs: clarify environment setup
+0239. 🎨 style: standardize quote style
+0090. ✅ test: increase coverage on auth module
+0138. 🎨 style: rename variables for clarity
+0660. 🐛 fix: correct typo in registration form
+0869. ♻️ chore: bump dependencies
+0979. 🎨 style: standardize quote style
+0062. ♻️ chore: update .gitignore
+0641. 📚 docs: write FAQ section
+0905. ♻️ chore: bump dependencies
+0054. ♻️ chore: update .gitignore
+0884. 📚 docs: clarify environment setup
+0675. 🔧 refactor: organize models into subfolders
+0234. ♻️ chore: rename env.example
+0304. 🔧 refactor: remove redundant code blocks
+0508. ✅ test: add unit test for quiz service
+0248. 🐛 fix: handle 500 error in quiz API
+0112. ✨ feat: enable dark mode toggle
+0921. 🐛 fix: correct typo in registration form
+0753. 🔧 refactor: remove redundant code blocks
+0981. 🚀 perf: lazy-load components
+0078. ♻️ chore: update .gitignore
+0444. ✅ test: add unit test for quiz service
+0735. ♻️ chore: add GitHub actions badge
+0613. 🐛 fix: prevent crash on empty input
+0409. 🚀 perf: lazy-load components
+0236. 🔧 refactor: remove redundant code blocks
+0300. ✨ feat: add export to CSV option
+0044. ✅ test: add unit test for quiz service
+0433. 🐛 fix: prevent crash on empty input
+0010. ✨ feat: add user authentication
+0802. 🔧 refactor: remove redundant code blocks
+0751. 🐛 fix: handle 500 error in quiz API
+0610. 🚀 perf: lazy-load components
+0605. ✨ feat: support email verification
+0512. 🚀 perf: reduce image load time
+0084. 🐛 fix: handle 500 error in quiz API
+0406. ✨ feat: add export to CSV option
+0633. ✨ feat: add user authentication
+0621. 🔧 refactor: clean up auth middleware
+0656. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
+0361. ✨ feat: support email verification
+0528. ♻️ chore: clean up unused files
+0902. ✨ feat: enable dark mode toggle
+0250. 📚 docs: update README with setup steps
+0130. 🔧 refactor: split large controller into smaller functions
+0015. ✨ feat: implement quiz timer feature
+0754. 🐛 fix: handle 500 error in quiz API
+0775. 🐛 fix: fix null pointer exception on login
+0393. 🚀 perf: lazy-load components
+0282. 🔧 refactor: remove redundant code blocks
+0036. 🔧 refactor: clean up auth middleware
+0446. 🎨 style: apply consistent indentation
+0338. ♻️ chore: add GitHub actions badge
+0237. 🎨 style: standardize quote style
+0920. 🔧 refactor: organize models into subfolders
+0770. ♻️ chore: rename env.example
+0985. 📚 docs: document token refresh logic
+0398. 🚀 perf: cache repeated calculations
+0091. ✨ feat: add user authentication
+0684. 🚀 perf: reduce image load time
+0539. 🔧 refactor: organize models into subfolders
+0711. 🐛 fix: fix broken CSS in mobile view
+0216. 🎨 style: rename variables for clarity
+0373. 📚 docs: document token refresh logic
+0052. 🎨 style: standardize quote style
+0295. 🎨 style: remove trailing whitespace
+0426. ✅ test: add integration test for /submit endpoint
+0126. 🎨 style: rename variables for clarity
+0794. ♻️ chore: clean up unused files
+0612. ✅ test: test user registration edge cases
+0362. 📚 docs: add API usage examples
+0345. 📚 docs: document token refresh logic
+0288. 🔧 refactor: refactor quiz grading logic
+0577. ✨ feat: implement quiz timer feature
+0305. ✨ feat: enable dark mode toggle
+0179. 🔧 refactor: split large controller into smaller functions
+0709. ♻️ chore: bump dependencies
+0384. 📚 docs: clarify environment setup
+0910. 🎨 style: remove trailing whitespace
+0201. 🔧 refactor: clean up auth middleware
+0545. 🎨 style: standardize quote style
+0094. 📚 docs: document token refresh logic
+0722. 📚 docs: add API usage examples
+0760. 🐛 fix: resolve issue with date parsing
+0028. 🎨 style: standardize quote style
+0644. 🎨 style: apply consistent indentation
+0991. ♻️ chore: clean up unused files
+0074. ♻️ chore: add GitHub actions badge
+0132. ✅ test: add unit test for quiz service
+0238. 🎨 style: apply consistent indentation
+0133. 🐛 fix: fix null pointer exception on login
+0412. ✅ test: increase coverage on auth module
+0122. ✨ feat: support email verification
+0941. 🚀 perf: cache repeated calculations
+0068. 🐛 fix: fix null pointer exception on login
+0523. ♻️ chore: bump dependencies
+0845. 🚀 perf: cache repeated calculations
+0918. ✨ feat: enable dark mode toggle
+0021. ✨ feat: support email verification
+0275. 🎨 style: standardize quote style
+0708. ✅ test: add integration test for /submit endpoint
+0507. 🔧 refactor: clean up auth middleware
+0831. 📚 docs: clarify environment setup
+0877. 🚀 perf: optimize database query for quiz results
+0482. ✨ feat: add export to CSV option
+0917. ✅ test: add integration test for /submit endpoint
+0289. 🐛 fix: resolve issue with date parsing
+0762. 🚀 perf: lazy-load components
+0470. 🎨 style: remove trailing whitespace
+0272. 🔧 refactor: remove redundant code blocks
+0439. 🐛 fix: correct typo in registration form
+0106. 🎨 style: reformat files with black
+0337. 📚 docs: document token refresh logic
+0033. 🎨 style: apply consistent indentation
+0759. 🔧 refactor: organize models into subfolders
+0020. ✅ test: add integration test for /submit endpoint
+0189. 📚 docs: clarify environment setup
+0110. 🐛 fix: prevent crash on empty input
+0620. ✨ feat: implement quiz timer feature
+0503. ♻️ chore: rename env.example
+0258. 🐛 fix: prevent crash on empty input
+0780. 📚 docs: add API usage examples
+0443. 🎨 style: standardize quote style
+0459. 🔧 refactor: organize models into subfolders
+0043. ✅ test: add integration test for /submit endpoint
+0705. 🔧 refactor: refactor quiz grading logic
+0830. 🎨 style: apply consistent indentation
+0669. ✨ feat: enable dark mode toggle
+0093. ✅ test: add unit test for quiz service
+0333. 🚀 perf: cache repeated calculations
+0357. ✅ test: add unit test for quiz service
+0257. 📚 docs: clarify environment setup
+0936. 🔧 refactor: organize models into subfolders
+0629. 🔧 refactor: organize models into subfolders
+0642. 🚀 perf: optimize database query for quiz results
+0343. 🚀 perf: optimize database query for quiz results
+0872. 🎨 style: rename variables for clarity
+0763. 🔧 refactor: organize models into subfolders
+0832. 🔧 refactor: remove redundant code blocks
+0881. 🔧 refactor: split large controller into smaller functions
+0190. 🎨 style: rename variables for clarity
+0997. ✅ test: increase coverage on auth module
+0836. 🚀 perf: optimize database query for quiz results
+0861. ♻️ chore: clean up unused files
+0511. 🐛 fix: fix broken CSS in mobile view
+0389. 📚 docs: improve code comments in utils
+0568. 🐛 fix: handle 500 error in quiz API
+0188. 🎨 style: apply consistent indentation
+0489. 🔧 refactor: organize models into subfolders
+0882. 🚀 perf: optimize database query for quiz results
+0704. 🚀 perf: cache repeated calculations
+0988. 🐛 fix: fix broken CSS in mobile view
+0999. 🔧 refactor: split large controller into smaller functions
+0223. 🔧 refactor: remove redundant code blocks
+0245. 🐛 fix: resolve issue with date parsing
+0407. 🚀 perf: cache repeated calculations
+0510. 🎨 style: rename variables for clarity
+0391. 🐛 fix: fix null pointer exception on login
+0875. ✅ test: increase coverage on auth module
+0377. ✨ feat: add user authentication
+0624. ✅ test: add unit test for quiz service
+0097. 🐛 fix: handle 500 error in quiz API
+0199. ✨ feat: create admin dashboard
+0803. ✅ test: mock database connection in test suite
+0472. 🐛 fix: fix null pointer exception on login
+0319. 🐛 fix: handle 500 error in quiz API
+0164. 📚 docs: document token refresh logic
+0048. 📚 docs: update README with setup steps
+0400. 🐛 fix: fix null pointer exception on login
+0159. 🚀 perf: lazy-load components
+0252. 🎨 style: remove trailing whitespace
+0617. ✨ feat: support email verification
+0908. ♻️ chore: bump dependencies
+0070. ✨ feat: implement quiz timer feature
+0184. 📚 docs: improve code comments in utils
+0450. 🐛 fix: fix broken CSS in mobile view
+0648. ♻️ chore: bump dependencies
+0971. 🎨 style: standardize quote style
+0750. 🎨 style: apply consistent indentation
+0857. 🎨 style: rename variables for clarity
+0218. 🔧 refactor: clean up auth middleware
+0707. 🎨 style: apply consistent indentation
+0269. ✅ test: test user registration edge cases
+0667. ✨ feat: add export to CSV option
+0279. ✨ feat: support email verification
+0835. 🐛 fix: prevent crash on empty input
